@@ -9,7 +9,12 @@ module.exports = {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        'nanum': ['Nanum Myeongjo', 'serif'],
+        'cairo': ['Cairo Play', 'cursive']
+      }
+    },
   },
   plugins: [],
 }
