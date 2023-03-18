@@ -11,7 +11,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        'nanum': ['Nanum Myeongjo', 'serif']
+        'ibm': ['IBM Plex Sans', 'sans-serif']
       }
     },
   },

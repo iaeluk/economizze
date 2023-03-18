@@ -9,7 +9,7 @@ export default function Document() {
           <meta name="theme-color" content="#fff" />
           <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"></meta>
         </Head>
-        <body className='font-nanum'>
+        <body className='font-ibm'>
         <Main />
         <NextScript />
       </body>
