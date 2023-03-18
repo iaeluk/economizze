@@ -11,8 +11,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        'nanum': ['Nanum Myeongjo', 'serif'],
-        'cairo': ['Cairo Play', 'cursive']
+        'nanum': ['Nanum Myeongjo', 'serif']
       }
     },
   },
