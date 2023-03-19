@@ -3,8 +3,10 @@
   "short_name": "Economizze",
   "theme_color": "#000000",
   "background_color": "#000000",
-  "display": "fullscreen",
   "orientation": "portrait",
+  "display": "fullscreen",
+  "fullscreen": true,
+  "prefer_related_applications": false,
   "scope": "/",
   "start_url": "/",
   "icons": [
