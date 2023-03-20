@@ -12,8 +12,8 @@ export default function App({ Component, pageProps }: AppProps) {
         <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no"/>
         <meta name="mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-capable" content="yes" />
-        {/* <meta name="fullscreen" content="yes" />
-        <meta name="screen-orientation" content="portrait" /> */}
+        <meta name="fullscreen" content="yes" />
+        <meta name="screen-orientation" content="portrait" />
         <meta name="theme-color" content="#000000" />
       </Head>
       <MetaContextProvider>
